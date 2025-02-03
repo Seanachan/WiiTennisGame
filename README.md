@@ -17,16 +17,6 @@ A **3D Unity Tennis Game** with motion-based controls using a Wii remote. This p
 * **Wii Remote & Bluetooth Adapter** for motion tracking.
 * **Windows/macOS** with Unity-compatible drivers for Wii remote integration.
 
-### Steps to Run the Game
-
-1. Clone the repository:
-   ```
-   git clone https://github.com/Seanachanunity-tennis-game.git
-   ```
-2. Open the project in Unity.
-3. Ensure Wii Remote(s) are connected via Bluetooth. You can check out Dolphin for more.
-4. Press **Play** in Unity Editor or build the game for your platform.
-
 ## Controls
 
 * **Swing Motion** - Perform a forehand/backhand using the Wii remote.
@@ -51,6 +41,8 @@ A **3D Unity Tennis Game** with motion-based controls using a Wii remote. This p
 ## Contributing
 
 單車節18屆 學術部葉部長及涂部長
+@RuiLun5757
+
 
 ## License
 
