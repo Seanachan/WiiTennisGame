@@ -2,6 +2,8 @@
 
 A **3D Unity Tennis Game** with motion-based controls using a Wii remote. This project aims to provide an immersive and engaging tennis experience by leveraging **real-time physics** and **Wii Remote integration** for player interaction. The project was originally collaborated on **Unity Cloud**.
 
+![Double Game Screen](double_game_UI.png)
+
 ## Features
 
 * **Supports Multiple Wii Remotes**, enabling at most **two players** to compete in multiplayer mode.
@@ -42,7 +44,6 @@ A **3D Unity Tennis Game** with motion-based controls using a Wii remote. This p
 
 單車節18屆 學術部葉部長及涂部長
 @RuiLun5757
-
 
 ## License
 
