@@ -42,8 +42,10 @@ A **3D Unity Tennis Game** with motion-based controls using a Wii remote. This p
 
 ## Contributing
 
-單車節18屆 學術部葉部長及涂部長
-[@RuiLun5757](https://github.com/RuQian5757)
+單車節18屆 學術部
+
+[葉部長](https://github.com/qinrong1009)
+[涂部長@RuiLun5757](https://github.com/RuQian5757)
 
 ## License
 
