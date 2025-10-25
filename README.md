@@ -4,6 +4,8 @@ A **3D Unity Tennis Game** with motion-based controls using a Wii remote. This p
 
 ![Double Game Screen](double_game_UI.png)
 
+
+[Demo Video](https://youtu.be/gOAMnGyUKmY)
 ## Features
 
 * **Supports Multiple Wii Remotes**, enabling at most **two players** to compete in multiplayer mode.
@@ -62,4 +64,3 @@ Enjoy the game and improve your tennis skills! 🎾
 
 NCKU 2024 Fall Semester, a final project for Window Program Design.
 
-This project aims
